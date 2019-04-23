@@ -2,9 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.yatus.cn/2019/04/23/hello-world/</loc>
+    
+    <lastmod>2019-04-23T08:22:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn/repository/index.html</loc>
+    
+    <lastmod>2019-04-23T07:59:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn/tags/index.html</loc>
+    
+    <lastmod>2019-04-23T07:18:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn/links/index.html</loc>
+    
+    <lastmod>2019-04-23T07:18:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn//404.html</loc>
+    
+    <lastmod>2019-04-23T07:18:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn/categories/index.html</loc>
+    
+    <lastmod>2019-04-23T07:18:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn/books/index.html</loc>
+    
+    <lastmod>2019-04-23T07:18:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.yatus.cn/about/index.html</loc>
+    
+    <lastmod>2019-04-23T07:18:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.yatus.cn/baidu_verify_jBN8CkEazv.html</loc>
     
-    <lastmod>2019-04-23T06:02:58.000Z</lastmod>
+    <lastmod>2019-04-23T06:03:56.000Z</lastmod>
     
   </url>
   
@@ -19,13 +75,6 @@
     <loc>http://blog.yatus.cn/2019/04/23/%E6%B5%8B%E8%AF%95%E8%8D%89%E6%90%9E/</loc>
     
     <lastmod>2019-04-23T02:55:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.yatus.cn/2019/04/23/hello-world/</loc>
-    
-    <lastmod>2019-04-23T02:18:55.000Z</lastmod>
     
   </url>
   
