@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.yatus.cn/"/>
-  <updated>2019-04-23T09:33:06.000Z</updated>
+  <updated>2019-04-24T07:12:27.000Z</updated>
   <id>https://blog.yatus.cn/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://blog.yatus.cn/2019/04/23/yatu/"/>
     <id>https://blog.yatus.cn/2019/04/23/yatu/</id>
     <published>2019-04-23T09:21:58.000Z</published>
-    <updated>2019-04-23T09:33:06.000Z</updated>
+    <updated>2019-04-24T07:12:27.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6>]]></content>
+    <content type="html"><![CDATA[<!-- build time:Wed Apr 24 2019 23:52:30 GMT+0800 (GMT+08:00) --><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h1 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h1><h1 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h1><h1 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h1><h1 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h1><h1 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h1><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a
+        &lt;!-- build time:Wed Apr 24 2019 23:52:30 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;
       
     
     </summary>
@@ -44,14 +44,13 @@
     <published>2019-04-23T09:15:08.000Z</published>
     <updated>2019-04-23T09:15:19.000Z</updated>
     
-    <content type="html"><![CDATA[<p>差点迟到的</p>]]></content>
+    <content type="html"><![CDATA[<!-- build time:Wed Apr 24 2019 23:52:30 GMT+0800 (GMT+08:00) --><p>差点迟到的</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;差点迟到的&lt;/p&gt;
-
+        &lt;!-- build time:Wed Apr 24 2019 23:52:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;差点迟到的&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
       
     
     </summary>
