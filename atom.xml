@@ -5,9 +5,9 @@
   <subtitle>Just do what you want!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.yatus.cn/"/>
+  <link href="https://blog.yatus.cn/"/>
   <updated>2019-04-23T09:33:06.000Z</updated>
-  <id>http://blog.yatus.cn/</id>
+  <id>https://blog.yatus.cn/</id>
   
   <author>
     <name>yatus</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>yatu</title>
-    <link href="http://blog.yatus.cn/2019/04/23/yatu/"/>
-    <id>http://blog.yatus.cn/2019/04/23/yatu/</id>
+    <link href="https://blog.yatus.cn/2019/04/23/yatu/"/>
+    <id>https://blog.yatus.cn/2019/04/23/yatu/</id>
     <published>2019-04-23T09:21:58.000Z</published>
     <updated>2019-04-23T09:33:06.000Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>测试博客</title>
-    <link href="http://blog.yatus.cn/2019/04/23/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://blog.yatus.cn/2019/04/23/测试博客/</id>
+    <link href="https://blog.yatus.cn/2019/04/23/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.yatus.cn/2019/04/23/测试博客/</id>
     <published>2019-04-23T09:15:08.000Z</published>
     <updated>2019-04-23T09:15:19.000Z</updated>
     
