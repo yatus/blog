@@ -1,2 +1,2 @@
-https://blog.yatus.cn/2019/04/23/yatu/
-https://blog.yatus.cn/2019/04/23/测试博客/
+http://blog.yatus.cn/2019/04/23/yatu/
+http://blog.yatus.cn/2019/04/23/测试博客/

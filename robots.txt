@@ -12,5 +12,5 @@ Disallow: /fancybox/
 Disallow: /categories/
 
 
-Sitemap: https://blog.yatus.cn/sitemap.xml
-Sitemap: https://blog.yatus.cn/baidusitemap.xml
+Sitemap: http://blog.yatus.cn/sitemap.xml
+Sitemap: http://blog.yatus.cn/baidusitemap.xml
