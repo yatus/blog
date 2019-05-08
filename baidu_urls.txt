@@ -1,4 +1,4 @@
-http://blog.yatus.cn/2018/01/10/linux虚拟机三种网络介绍/
+http://blog.yatus.cn/2019/01/10/linux虚拟机三种网络介绍/
 http://blog.yatus.cn/2018/01/09/linux-shell编程/
 http://blog.yatus.cn/2018/01/08/linux常用基本命令/
 http://blog.yatus.cn/2018/01/07/linux-vi和vim编辑器简单使用/
