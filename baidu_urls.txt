@@ -1,2 +1,5 @@
-http://blog.yatus.cn/2019/04/23/yatu/
-http://blog.yatus.cn/2019/04/23/测试博客/
+http://blog.yatus.cn/2018/01/09/linux虚拟机三种网络介绍/
+http://blog.yatus.cn/2018/01/08/linux常用基本命令/
+http://blog.yatus.cn/2018/01/07/linux-vi和vim编辑器简单使用/
+http://blog.yatus.cn/2018/01/07/linux-shell编程/
+http://blog.yatus.cn/2018/01/06/linux文件目录结构/
